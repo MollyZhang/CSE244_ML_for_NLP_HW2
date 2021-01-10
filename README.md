@@ -3,7 +3,7 @@
 ### Staring point:
 run.ipynb
 
-### Results Report:
+### Results:
 https://github.com/MollyZhang/CSE244_ML_for_NLP_HW2/blob/master/HW2%20report.pdf
 
 ### Folder structure:
